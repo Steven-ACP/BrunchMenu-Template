@@ -1,0 +1,14 @@
+/** @format */
+
+[class^="col"] {
+  max-height: 200px;
+  border: 1px solid black;
+}
+
+.img-fluid {
+  max-height: 100%;
+}
+
+body {
+  background-color: rgb(71, 22, 0);
+}
